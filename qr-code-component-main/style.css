@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+.header{
+    padding: 150px;
+    border: 2px solid hsl(219, 40%, 78%);
+    background-color:  hsl(212, 45%, 89%);
+}
+.white{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 15px;
+    margin-top: 19px;
+    margin-left: 402px;
+    margin-right: 325px;
+    padding-bottom: 40px;
+}
+.white img{
+    width: 350px;
+    margin-left: 20px;
+    margin-top: 16px;
+    border-radius: 15px;
+}
+.king{
+    margin-top: 20px;
+    font-size: 30px; 
+    font-weight: 700;
+    text-align: center;
+}
+.fans{
+    color: hsl(0, 0%, 45%);
+    margin-top: 10px;
+    font-size: 15px;
+    font-weight: 400; 
+    text-align: center;
+}
+.attribution{
+    margin-left: 550px;
+}
